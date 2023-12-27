@@ -5,11 +5,11 @@ Página web educativo que propone apoyar a las personas de una forma entretenida
 
 ## Capturas de Pantalla
 
-1. **Página Principal**
+1. **Juego Clasico**
 
    ![Juego Clasico](assets/1.jpeg)
 
-2. **Visualización de Libro**
+2. **Juego Tirachinas**
 
    ![Juego Tirachinas](assets/2.jpeg)
 
