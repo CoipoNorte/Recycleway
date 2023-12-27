@@ -2,6 +2,17 @@
 ![Logo](https://raw.githubusercontent.com/olverarce01/Recicleway/main/img/logobeta1.png "Logo")
 ## Resumen
 Página web educativo que propone apoyar a las personas de una forma entretenida y rápida a clasificar residuos en los contenedores de reciclaje que estén designados para ello, o descartarlos si no son elementos reciclables aún.
+
+## Capturas de Pantalla
+
+1. **Página Principal**
+
+   ![Juego Clasico](assets/1.jpeg)
+
+2. **Visualización de Libro**
+
+   ![Juego Tirachinas](assets/2.jpeg)
+
 ## Instalación
 1. Subir el repositorio a un servidor web Apache
 2. Subir la base de datos de la carpeta 'baseDeDatos' a un servidor de base de datos de MariaDB
